@@ -6,7 +6,7 @@ let accountName
 //we canot change the constant 
 //in java script we use let most of the cases let and var are changeable 
 //if we do not assign any value it bydefault take undefined
-
+//prefer not use var beacuse of issue of block chain and variable scope
 
 accountMail="satyajiiiit"
 accountCity="Bhubaneswar"
