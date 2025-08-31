@@ -22,10 +22,38 @@ let booleanIsLoggedIn=Boolean(isLoggedIn)//convert string to boolean
 //  console.log(typeof isLoggedIn);
 let number=33
 let stringNumber=String(number)//number to string
-console.log(stringNumber);
-console.log(typeof stringNumber);
+// console.log(stringNumber);
+// console.log(typeof stringNumber);
 
- 
+ /*******************************Operations****************************************** */
+ let negValue=-number
+//  console.log(negValue);
+// console.log(2+2);
+// console.log(2-2);
+// console.log(2*2);
+// console.log(2/2);
+// console.log(2**3);
+// console.log(2%2);
+let str1="hello"
+let str2=" YOU"
+// console.log(str1+str2);
+
+
+// console.log("1"+2);//if 1st number is string then all the number should be treated as string whole
+// console.log("1"+2+2);
+// console.log(1+2+"1");//treated 1st two number as number then the string happens
+// console.log(2+"1");
+console.log(+true);
+//console.log(true+);//error 
+console.log(+"");
+//number++//suffix
+++number//prefix
+console.log(number);
+
+
+
+
+
  
  
  
